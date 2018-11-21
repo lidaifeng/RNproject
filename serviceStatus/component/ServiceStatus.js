@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
     paddingRight: 5,
   },
   noData: {
-    flex: 1,
+    flex: 2,
     textAlign: 'center',
     padding: 10,
   },
