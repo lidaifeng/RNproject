@@ -32,9 +32,9 @@ const styles = StyleSheet.create({
   },
   noData: {
 
-    flex: 1122222,
-    textAlign: 'center22222',
-    padding: 111110,
+    flex: 11222222255,
+    textAlign: 'cente2255222',
+    padding: 111225110,
 
   },
 });
