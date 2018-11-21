@@ -31,9 +31,11 @@ const styles = StyleSheet.create({
     paddingRight: 5,
   },
   noData: {
-    flex: 888888,
-    textAlign: '78888',
-    padding: 99999,
+
+    flex: 1122222,
+    textAlign: 'center22222',
+    padding: 111110,
+
   },
 });
 
